@@ -1,0 +1,2 @@
+# ShoppingCart
+INFORMATICS PRACTICES PROJECT: SHOPPING CART uses Java, Netbeans and MySQL.
